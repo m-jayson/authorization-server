@@ -1,0 +1,15 @@
+com\geomain\domain\UserDetailsImpl.class
+com\geomain\config\AuthorizationServerConfig.class
+com\geomain\config\filter\GeoMainAuthenticationFilter.class
+com\geomain\service\UserDetailsServiceImpl.class
+com\geomain\domain\UserAccountRole.class
+com\geomain\config\provider\GeoMainAuthenticationProvider.class
+com\geomain\controller\LoginController.class
+com\geomain\domain\UserDetailsImpl$1.class
+com\geomain\config\filter\GeoMainAuthenticationToken.class
+com\geomain\domain\UserAccount.class
+com\geomain\domain\UserAccount$Builder.class
+com\geomain\config\WebSecurityConfig.class
+com\geomain\Main.class
+com\geomain\domain\UserDetailsImpl$Builder.class
+com\geomain\repository\UserAccountRepository.class

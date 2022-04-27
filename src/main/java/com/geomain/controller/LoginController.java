@@ -1,4 +1,4 @@
-package com.emyasa.controller;
+package com.geomain.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

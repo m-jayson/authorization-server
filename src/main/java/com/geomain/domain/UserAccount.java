@@ -1,4 +1,4 @@
-package com.emyasa.domain;
+package com.geomain.domain;
 
 import java.util.HashSet;
 import java.util.Objects;

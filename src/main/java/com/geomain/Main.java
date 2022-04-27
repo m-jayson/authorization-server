@@ -1,7 +1,7 @@
-package com.emyasa;
+package com.geomain;
 
-import com.emyasa.domain.UserAccount;
-import com.emyasa.repository.UserAccountRepository;
+import com.geomain.domain.UserAccount;
+import com.geomain.repository.UserAccountRepository;
 import java.util.UUID;
 import javax.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;

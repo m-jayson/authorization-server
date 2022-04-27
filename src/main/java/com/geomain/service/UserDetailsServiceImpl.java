@@ -1,8 +1,8 @@
-package com.emyasa.service;
+package com.geomain.service;
 
-import com.emyasa.domain.UserAccount;
-import com.emyasa.domain.UserDetailsImpl;
-import com.emyasa.repository.UserAccountRepository;
+import com.geomain.domain.UserAccount;
+import com.geomain.domain.UserDetailsImpl;
+import com.geomain.repository.UserAccountRepository;
 import java.util.Objects;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

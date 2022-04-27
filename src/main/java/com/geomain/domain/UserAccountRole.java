@@ -1,4 +1,4 @@
-package com.emyasa.domain;
+package com.geomain.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

@@ -1,4 +1,4 @@
-package com.emyasa.domain;
+package com.geomain.domain;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import java.util.Collection;
